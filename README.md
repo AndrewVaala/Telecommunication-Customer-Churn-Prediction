@@ -58,7 +58,7 @@ By applying and comparing various machine learning algorithms, the project seeks
 **Data Preparation**
 
 Loaded raw data using Pandas.
-Cleaned the dataset by removing irrelevant features and standardizing column names.
+* Cleaned the dataset by removing irrelevant features and standardizing column names.
 <img width="1366" height="471" alt="Screenshot (750)" src="https://github.com/user-attachments/assets/1a2cbf3a-9817-4764-a0d1-9b561b80b9f8" />
 
 Handled missing values and outliers to improve data quality.
@@ -71,7 +71,7 @@ Handled missing values using median and mode imputation.
 
 Categorized columns for better interpretation.
 Used correlation heatmaps to identify relationships and null values.
-Generated bar charts and visual summaries for key customer segments.
+* Generated bar charts and visual summaries for key customer segments.
 <img width="1187" height="590" alt="GrpPRJ" src="https://github.com/user-attachments/assets/eedde1e3-7d17-4ffe-93e4-70e2c8a7a12b" />
 
 
@@ -79,7 +79,7 @@ Generated bar charts and visual summaries for key customer segments.
 
 **Data Preprocessing**
 
-Encoded categorical variables and scaled numeric features.
+* Encoded categorical variables and scaled numeric features.
 <img width="1366" height="468" alt="Screenshot (756)" src="https://github.com/user-attachments/assets/f61bea3b-f841-4e7c-8b2c-fe3067bfad9d" />
 
 Defined feature and target variables for model training.
@@ -91,13 +91,13 @@ Defined feature and target variables for model training.
 
 Visual Analysis:
 
-Heatmaps for missing value detection.
+* Heatmaps for missing value detection.
 <img width="1366" height="451" alt="Screenshot (754)" src="https://github.com/user-attachments/assets/8e86e149-d060-4ac7-ae6e-c2589ea485b7" />
 
 
 Distribution plots for tenure, recharge amounts, and city distribution.
 
-Histograms for revenue and usage patterns.
+*Histograms for revenue and usage patterns.
 <img width="1489" height="1490" alt="GrpPRJ2" src="https://github.com/user-attachments/assets/539c7936-1842-48f2-ad7c-89ba9f3d66fe" />
 
 
