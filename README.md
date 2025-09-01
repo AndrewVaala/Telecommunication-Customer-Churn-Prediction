@@ -96,9 +96,13 @@ Heatmaps for missing value detection.
 
 
 Distribution plots for tenure, recharge amounts, and city distribution.
-Histograms for revenue and usage patterns.
 
-Key Insights
+Histograms for revenue and usage patterns.
+<img width="1489" height="1490" alt="GrpPRJ2" src="https://github.com/user-attachments/assets/539c7936-1842-48f2-ad7c-89ba9f3d66fe" />
+
+
+
+# Key Insights
 
 One of the most significant findings was the impact of tenure on churn rates. Customers with a shorter duration on the network were found to be more likely to churn compared to long-term customers. This underscores the importance of early engagement strategies to build loyalty and reduce the likelihood of churn within the first year of a customer’s lifecycle.
 
@@ -110,7 +114,7 @@ In terms of model performance, the results varied before and after balancing the
 
 These insights highlight not only the behavioral patterns that influence churn but also the importance of handling data imbalance to build robust predictive models. By leveraging these findings, organizations can develop targeted retention strategies and deploy more effective models for proactive customer engagement.
 
-Recommendations
+# Recommendations
 
 From a retention perspective, the company should prioritize strategies that build loyalty among new customers during their first year. Personalized onboarding offers, tailored communication, and early engagement programs can help establish strong relationships and reduce the likelihood of early churn. Additionally, identifying and monitoring low-activity customers is critical. Proactive engagement through targeted promotions, loyalty incentives, or personalized offers can encourage these users to increase their activity and remain connected to the network.
 
